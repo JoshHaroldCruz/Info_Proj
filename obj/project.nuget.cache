@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LOghzE02KmMN/h8BFISwiOzgoz8wStFaFgEI0nwCXggHO1ZP2quh7FnNEkbhk9CmnjKznp6f8liI2LR648FcDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luna\\Documents\\GitHub\\Info_Proj\\Info_Proj.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luna\\.nuget\\packages\\guna.charts.winforms\\1.0.9\\guna.charts.winforms.1.0.9.nupkg.sha512",
+    "C:\\Users\\Luna\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\Luna\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Luna\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
